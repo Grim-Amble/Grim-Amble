@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding duh
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me dunno reddit u/sonofinmused
+- 📫 How to reach me
+- <h1>deos this work<h1>
 
 <!---
 Grim-Amble/Grim-Amble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
